@@ -1,4 +1,4 @@
-# Exercícios Básicos Java Interativo - VERSÃO CONSOLE 
+# Exercícios Básicos Logica de programação Interativo - Java / HTML
 
 ## 🎯 Como rodar (Windows):
 ```
