@@ -1,6 +1,6 @@
-# Exercícios Básicos Logica de programação Interativo - Java / HTML
+Exercícios Básicos Logica de programação Interativo - Java / HTML
 
-## 🎯 Como rodar (Windows):
+ Como rodar (Windows):
 ```
 javac *.java
 java Main
@@ -10,14 +10,14 @@ terminal : start frontend/index.html
 
 ```
 
-## Main.java - 10 Exercícios Interativos
+Main.java - 10 Exercícios Interativos
 - **Menu console** colorido com Scanner.
 - **Validação automática** de código (busca keywords exatas como no web original).
 - **DICA PASSO A PASSO** opcional (insere passos numerados).
 - **Input multi-linha** para digitar código.
 - **Feedback** verde/ vermelho (ANSI).
 
-### Exercícios:
+Exercícios:
 1. Hello World (`println("Oi Mundo")`)
 2. Scanner Soma (`nextInt() + nextInt()`)
 3. FOR 1-10 (`for i=1 <=10`)
@@ -29,7 +29,7 @@ terminal : start frontend/index.html
 9. do-while Menu (`do while`)
 10. Switch Dia (`switch case`)
 
-## 📂 Arquivos:
+Arquivos:
 - `Main.java` ← Principal (rode este!)
 - `HelloWorld.java` ← Exemplo Ex1 compilável standalone: `java HelloWorld`
 
