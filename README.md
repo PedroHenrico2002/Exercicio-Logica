@@ -29,7 +29,5 @@ java Main
 - `Main.java` ← Principal (rode este!)
 - `HelloWorld.java` ← Exemplo Ex1 compilável standalone: `java HelloWorld`
 
-## Versão Web backup: `index-web-backup.html`
 
-**Projeto convertido 100% Java console!** 🚀
 
